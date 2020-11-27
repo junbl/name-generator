@@ -4,7 +4,7 @@ Generates dramatic-sounding, mostly silly, fantasy-themed names and titles as Ma
 
 usage:
 
-    name\_generator -x AMOUNT -p PLACES -n NAMES
+    name_generator -x AMOUNT -p PLACES -n NAMES
 
 The files loc.csv and names.csv contain a collection of places and names from which the generator can draw possibilities.
 
