@@ -29,7 +29,7 @@ def generate_categories(names=[],places=[]):
     categories['occupations'] += [
             'Slayer','Shaker','Bringer','Caster','Thrower','Slinger','Destroyer','Crusher','Killer','Eater','Smasher']
     categories['cool_words'] += [
-            'Earth','Storm','Thunder','Ice','Fire','Flame','Death','Blood','Skull','Metal','Frost','Shadow','Evil']
+            'Earth','Storm','Thunder','Ice','Fire','Flame','Death','Blood','Skull','Metal','Frost','Shadow','Evil','Righteous']
     categories['creatures'] += [
             'Spider','Goblin','Dwarf','Elf','Serpent','Dragon','Raven','Wolf','Demon','Devil','Spirit']
     categories['names'] += [
