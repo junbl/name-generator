@@ -10,13 +10,13 @@ The files loc.csv and names.csv contain a collection of places and names from wh
 
 Sample output:
 
-Rhoda Lightfoot, Caster
-Melba Boffin, King
-Krisztina Varga of Serpent Slayer
-Kris Kenka of Tanaris
-Tre'gok T'lak, Foe of Fort Collins, Metal Killer
-Kund Havasi, Blood Blight of Stormwind
-Jessamine Took-Brandybuck, Slinger of Dragon Dragon Slinger
-William Adams of Scholomance
-Sirella Mogh, Shaker
-Brosca Szepesy, Death Lord of Uldaman
+    Rhoda Lightfoot, Caster
+    Melba Boffin, King
+    Krisztina Varga of Serpent Slayer
+    Kris Kenka of Tanaris
+    Tre'gok T'lak, Foe of Fort Collins, Metal Killer
+    Kund Havasi, Blood Blight of Stormwind
+    Jessamine Took-Brandybuck, Slinger of Dragon Dragon Slinger
+    William Adams of Scholomance
+    Sirella Mogh, Shaker
+    Brosca Szepesy, Death Lord of Uldaman
